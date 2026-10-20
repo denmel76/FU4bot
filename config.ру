@@ -7,8 +7,7 @@ ADMIN_ID = int(os.environ.get("ADMIN_ID", 0))
 # Список каналов-спонсоров (username без @, или ID каналов)
 # ВАЖНО: Бот должен быть админом в этих каналах, чтобы проверять подписку!
 SPONSORS = [
-    "@sponsor_channel_1", 
-    "@sponsor_channel_2"
+    "@den_mel_76_1" 
 ]
 
 # Ссылка на оплату (сайт клиента)
