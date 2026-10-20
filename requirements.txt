@@ -1,3 +1,0 @@
---only-binary=:all:
-aiogram==3.15.0
-aiosqlite==0.20.0
